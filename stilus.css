@@ -8,6 +8,7 @@
 }
 img {
     width: 100%;
+    border: 1px solid grey;
 }
 h1 {
     padding: 5pt;
@@ -31,10 +32,11 @@ ul {
     background-color: red;
 }
 .kiskep {
-    width: 24%;
-    padding: 2px;
-    margin: 2pt;
+    padding: 2%;
+    margin: 2px;
     border: 1px solid gray;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 h2 {
     margin: 5px;
