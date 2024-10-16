@@ -29,3 +29,9 @@ ul {
 .kezdolap {
     text-align: left;
 }
+.kiskep {
+    width: 24%;
+    padding: 2px;
+    margin: 2pt;
+    border: 1px solid gray;
+}
