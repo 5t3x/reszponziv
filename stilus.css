@@ -2,16 +2,16 @@
     width: 90%;
     max-width: 900px;
     font-size: 12px;
-    padding: 0pt;
-    margin: 0pt;
+    padding: 5pt;
+    margin: 5pt;
     border: 1px solid gray;
 }
 img {
     width: 100%;
 }
 h1 {
-    padding: 0pt;
-    margin: 0pt;
+    padding: 5pt;
+    margin: 5pt;
     border: 1px solid gray;
 }
 body {
@@ -21,6 +21,11 @@ body {
     border: 1px solid;
     margin: auto;
 }
-.menu {
+ul {
     border: 1px solid gray;
+    list-style-type: none;
+
+}
+.kezdolap {
+    text-align: left;
 }
