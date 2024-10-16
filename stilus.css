@@ -48,3 +48,10 @@ li {
     padding: 0px;
     
 }
+.nagykep {
+    border: 1px solid gray;
+    padding: 5px;
+}
+.galeria {
+    border: 1px solid grey;
+}
