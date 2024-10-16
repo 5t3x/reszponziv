@@ -60,3 +60,6 @@ li {
 .galeria {
     border: 1px solid grey;
 }
+a:link {
+    text-decoration: none;
+}
