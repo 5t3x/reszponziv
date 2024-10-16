@@ -3,3 +3,6 @@
     max-width: 900px;
     font-size: 12px;
 }
+picture img {
+    width: 100%;
+}
