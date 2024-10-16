@@ -1,18 +1,18 @@
-#tarolo {
+.tarolo {
     width: 90%;
     max-width: 900px;
     font-size: 12px;
     padding: 0pt;
     margin: 0pt;
-    border: 1px solid;
+    border: 1px solid gray;
 }
-picture img {
+img {
     width: 100%;
 }
 h1 {
     padding: 0pt;
     margin: 0pt;
-    border: 1px solid;
+    border: 1px solid gray;
 }
 body {
     width: 90%;
@@ -20,4 +20,7 @@ body {
     font-size: 12px;
     border: 1px solid;
     margin: auto;
+}
+.menu {
+    border: 1px solid gray;
 }
