@@ -2,7 +2,23 @@
     width: 90%;
     max-width: 900px;
     font-size: 12px;
+    padding: 0pt;
+    margin: 0pt;
+    border: 1px solid;
 }
 picture img {
     width: 100%;
+}
+h1 {
+    padding: 0pt;
+    margin: 0pt;
+    border: 1px solid;
+}
+body {
+    width: 90%;
+    max-width: 900px;
+    font-size: 12px;
+    padding: 0pt;
+    margin: 0pt;
+    border: 1px solid;
 }
